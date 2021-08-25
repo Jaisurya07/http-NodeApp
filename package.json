@@ -1,0 +1,26 @@
+{
+  "name": "http-nodeapp",
+  "version": "1.0.0",
+  "description": "A Node server based o HTTP module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaisurya07/http-NodeApp.git"
+  },
+  "author": "Jaisurya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaisurya07/http-NodeApp/issues"
+  },
+  "homepage": "https://github.com/Jaisurya07/http-NodeApp#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
